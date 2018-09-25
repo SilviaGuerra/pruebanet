@@ -1,4 +1,4 @@
-import React, { Fragment } from 'react';
+import React, { Component } from 'react';
 import headerStyles from './HeaderStyles';
 
 const Header = () => {

@@ -1,4 +1,4 @@
-import React, { Component, Fragment } from 'react';
+import React, { Component } from 'react';
 import Header from './Header';
 import SelectProfile from './SelectProfile';
 
